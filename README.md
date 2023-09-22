@@ -11,7 +11,6 @@ This repository contains the code and documentation for an Exploratory Data Anal
 - [Project Details](#project-details)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 
