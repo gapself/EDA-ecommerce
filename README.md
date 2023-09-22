@@ -67,7 +67,7 @@ To reproduce the analysis or explore the code, you can follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd ecommerce-eda 
+   cd eda-ecommerce 
    ```
 3. Open and run the Jupyter notebooks in the `notebooks/` directory to perform the EDA.
 
